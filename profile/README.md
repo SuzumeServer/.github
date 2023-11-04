@@ -1,8 +1,8 @@
-![トップ画](https://raw.githubusercontent.com/SuzumeServer/.github/main/2023-09-01_22.34.23.png)
 <hr>
 <h1 align="center"><b>すずめサーバー / Suzume Server</b></h1>
 <hr>
 
+![トップ画](https://raw.githubusercontent.com/SuzumeServer/.github/main/2023-09-01_22.34.23.png)
 すずめサーバーの開発用の組織!  
 ※基本的にはプロジェクトは公開しません。
 ## メンバー
